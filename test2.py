@@ -36,3 +36,5 @@ print(cu.area())
 print(cu.perimeter())
 
 print(isinstance(sq, Square))
+
+print('fffffffffffffffffffffffffffffffffff')
